@@ -1,6 +1,6 @@
 # MegaSpeech
 
-This repository contains the dataset for the IEEE Internet Computing 2022 paper [Towards hate speech detection at large via deep generative modeling]https://ieeexplore.ieee.org/abstract/document/9238420/ "Towards hate speech detection at large via deep generative modeling")
+This repository contains the dataset for the IEEE Internet Computing 2022 paper [Towards hate speech detection at large via deep generative modeling](https://ieeexplore.ieee.org/abstract/document/9238420/ "Towards hate speech detection at large via deep generative modeling")
 
 # Citation
 If you find our data useful, please cite our paper:
